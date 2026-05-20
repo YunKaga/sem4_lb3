@@ -1,0 +1,4 @@
+/home/YunKage/prog/sem4/thi/lb3/build/CMakeFiles/MusicLibrary.dir
+/home/YunKage/prog/sem4/thi/lb3/build/CMakeFiles/Meloman.dir
+/home/YunKage/prog/sem4/thi/lb3/build/CMakeFiles/edit_cache.dir
+/home/YunKage/prog/sem4/thi/lb3/build/CMakeFiles/rebuild_cache.dir
